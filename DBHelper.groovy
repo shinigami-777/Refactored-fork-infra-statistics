@@ -35,6 +35,8 @@ class DBHelper {
 
     // Check if the file with the given name already imported?
     static boolean doImport(db, fileName){
+        if(!db)
+            return false
         if(db){
             def filePrefix = fileName.substring(0, fileName.indexOf("."))+"%"
             def rows = db.rows("select name from importedfile where name like $filePrefix;")
