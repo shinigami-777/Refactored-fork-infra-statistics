@@ -1,0 +1,23 @@
+{
+    "name": "console-column-plugin",
+    "installations": {
+        "1301596200000": 110,
+        "1304188200000": 146
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.7588300220750552,
+        "1304188200000": 1.000274047684297
+    },
+    "installationsPerVersion": {
+        "1.0": 4,
+        "1.1": 2,
+        "1.2": 139,
+        "1.3-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.02740476842970677,
+        "1.1": 0.013702384214853385,
+        "1.2": 0.9523157029323103,
+        "1.3-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

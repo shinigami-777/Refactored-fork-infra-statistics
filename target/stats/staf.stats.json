@@ -1,0 +1,19 @@
+{
+    "name": "staf",
+    "installations": {
+        "1301596200000": 38,
+        "1304188200000": 31
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.2621412803532009,
+        "1304188200000": 0.21238695533022747
+    },
+    "installationsPerVersion": {
+        "0.1": 30,
+        "0.2-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "0.1": 0.20553576322280076,
+        "0.2-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

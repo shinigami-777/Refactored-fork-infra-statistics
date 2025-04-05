@@ -1,0 +1,19 @@
+{
+    "name": "powershell",
+    "installations": {
+        "1301596200000": 264,
+        "1304188200000": 282
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.8211920529801324,
+        "1304188200000": 1.9320361742943273
+    },
+    "installationsPerVersion": {
+        "1.1": 5,
+        "1.2": 277
+    },
+    "installationsPercentagePerVersion": {
+        "1.1": 0.034255960537133465,
+        "1.2": 1.8977802137571937
+    }
+}

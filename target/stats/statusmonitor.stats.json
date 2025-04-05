@@ -1,0 +1,27 @@
+{
+    "name": "statusmonitor",
+    "installations": {
+        "1301596200000": 786,
+        "1304188200000": 803
+    },
+    "installationsPercentage": {
+        "1301596200000": 5.422185430463577,
+        "1304188200000": 5.501507262263634
+    },
+    "installationsPerVersion": {
+        "1.0": 4,
+        "1.0-SNAPSHOT (private)": 1,
+        "1.1": 6,
+        "1.2": 790,
+        "1.3-SNAPSHOT (private)": 1,
+        "1.4-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.02740476842970677,
+        "1.0-SNAPSHOT (private)": 0.006851192107426692,
+        "1.1": 0.041107152644560156,
+        "1.2": 5.412441764867087,
+        "1.3-SNAPSHOT (private)": 0.006851192107426692,
+        "1.4-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

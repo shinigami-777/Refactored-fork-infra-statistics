@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Plugin and Core Version Matrix for the translation Plugin</title>
+        <link rel="stylesheet" type="text/css" href="pluginversions.css" />
+        <script
+          src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+          integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="pluginversions.js"></script>
+        <script type="text/javascript">
+$(document).ready(function() {
+    var versionData = {"1.5":{"1.386":1,"1.389":1,"1.392":1,"1.393":1,"1.395":5,"1.396":1,"1.398":1,"1.399":1,"1.400.0.6":4,"1.401":2,"1.404":4,"1.405":2,"1.406":1,"1.408":6,"1.409":2,"1.410":11},"1.4":{"1.369":1,"1.371":1,"1.377":1,"1.379":1,"1.382":2,"1.386":1,"1.392":1,"1.395":1,"1.408":1,"1.410":1},"1.3":{"1.395":1}};
+
+    parseData(versionData, "translation");
+});
+        </script>
+    </head>
+    <body>
+        <table id="versionsContainer"></table>
+    </body>
+</html>

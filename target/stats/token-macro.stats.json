@@ -1,0 +1,21 @@
+{
+    "name": "token-macro",
+    "installations": {
+        "1301596200000": 136,
+        "1304188200000": 226
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.9381898454746137,
+        "1304188200000": 1.5483694162784325
+    },
+    "installationsPerVersion": {
+        "1.0": 15,
+        "1.1": 210,
+        "1.1-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.10276788161140038,
+        "1.1": 1.4387503425596053,
+        "1.1-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

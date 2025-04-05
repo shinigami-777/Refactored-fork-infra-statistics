@@ -1,0 +1,19 @@
+{
+    "name": "multiple-scms",
+    "installations": {
+        "1301596200000": 25,
+        "1304188200000": 52
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.17246136865342163,
+        "1304188200000": 0.356261989586188
+    },
+    "installationsPerVersion": {
+        "0.1": 51,
+        "0.2-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "0.1": 0.3494107974787613,
+        "0.2-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

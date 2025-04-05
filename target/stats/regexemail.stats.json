@@ -1,0 +1,19 @@
+{
+    "name": "regexemail",
+    "installations": {
+        "1301596200000": 214,
+        "1304188200000": 207
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.4762693156732891,
+        "1304188200000": 1.4181967662373254
+    },
+    "installationsPerVersion": {
+        "0.2": 6,
+        "0.3": 201
+    },
+    "installationsPercentagePerVersion": {
+        "0.2": 0.041107152644560156,
+        "0.3": 1.377089613592765
+    }
+}

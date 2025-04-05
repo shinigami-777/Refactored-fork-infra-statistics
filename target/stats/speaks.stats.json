@@ -1,0 +1,17 @@
+{
+    "name": "speaks",
+    "installations": {
+        "1301596200000": 90,
+        "1304188200000": 90
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.6208609271523179,
+        "1304188200000": 0.6166072896684023
+    },
+    "installationsPerVersion": {
+        "0.1.1": 90
+    },
+    "installationsPercentagePerVersion": {
+        "0.1.1": 0.6166072896684023
+    }
+}

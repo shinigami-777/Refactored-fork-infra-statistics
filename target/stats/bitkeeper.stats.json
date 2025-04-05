@@ -1,0 +1,19 @@
+{
+    "name": "bitkeeper",
+    "installations": {
+        "1301596200000": 9,
+        "1304188200000": 8
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.062086092715231786,
+        "1304188200000": 0.05480953685941354
+    },
+    "installationsPerVersion": {
+        "1.4": 1,
+        "1.5": 7
+    },
+    "installationsPercentagePerVersion": {
+        "1.4": 0.006851192107426692,
+        "1.5": 0.04795834475198685
+    }
+}

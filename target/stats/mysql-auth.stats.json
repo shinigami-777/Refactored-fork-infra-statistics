@@ -1,0 +1,19 @@
+{
+    "name": "mysql-auth",
+    "installations": {
+        "1301596200000": 66,
+        "1304188200000": 77
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.4552980132450331,
+        "1304188200000": 0.5275417922718553
+    },
+    "installationsPerVersion": {
+        "1.0": 75,
+        "1.1-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.5138394080570019,
+        "1.1-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

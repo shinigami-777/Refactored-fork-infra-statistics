@@ -1,0 +1,17 @@
+{
+    "name": "growl",
+    "installations": {
+        "1301596200000": 101,
+        "1304188200000": 112
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.6967439293598234,
+        "1304188200000": 0.7673335160317896
+    },
+    "installationsPerVersion": {
+        "1.0": 112
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.7673335160317896
+    }
+}

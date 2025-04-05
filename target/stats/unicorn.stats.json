@@ -1,0 +1,17 @@
+{
+    "name": "unicorn",
+    "installations": {
+        "1301596200000": 13,
+        "1304188200000": 13
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.08967991169977925,
+        "1304188200000": 0.089065497396547
+    },
+    "installationsPerVersion": {
+        "0.1.0": 13
+    },
+    "installationsPercentagePerVersion": {
+        "0.1.0": 0.089065497396547
+    }
+}

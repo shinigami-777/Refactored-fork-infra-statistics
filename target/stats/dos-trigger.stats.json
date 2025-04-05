@@ -1,0 +1,17 @@
+{
+    "name": "dos-trigger",
+    "installations": {
+        "1301596200000": 118,
+        "1304188200000": 131
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.8140176600441501,
+        "1304188200000": 0.8975061660728967
+    },
+    "installationsPerVersion": {
+        "1.0": 131
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.8975061660728967
+    }
+}

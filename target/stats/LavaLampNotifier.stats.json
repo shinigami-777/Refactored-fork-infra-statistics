@@ -1,0 +1,19 @@
+{
+    "name": "LavaLampNotifier",
+    "installations": {
+        "1301596200000": 34,
+        "1304188200000": 50
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.23454746136865343,
+        "1304188200000": 0.3425596053713346
+    },
+    "installationsPerVersion": {
+        "1.2": 2,
+        "1.4": 48
+    },
+    "installationsPercentagePerVersion": {
+        "1.2": 0.013702384214853385,
+        "1.4": 0.32885722115648125
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "signal-killer",
+    "installations": {
+        "1301596200000": 10,
+        "1304188200000": 16
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.06898454746136866,
+        "1304188200000": 0.10961907371882708
+    },
+    "installationsPerVersion": {
+        "1.0": 16
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.10961907371882708
+    }
+}

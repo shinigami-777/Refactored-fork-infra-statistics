@@ -1,0 +1,17 @@
+{
+    "name": "extended-read-permission",
+    "installations": {
+        "1301596200000": 214,
+        "1304188200000": 221
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.4762693156732891,
+        "1304188200000": 1.514113455741299
+    },
+    "installationsPerVersion": {
+        "1.0": 221
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 1.514113455741299
+    }
+}

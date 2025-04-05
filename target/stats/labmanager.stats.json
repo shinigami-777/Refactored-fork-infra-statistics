@@ -1,0 +1,17 @@
+{
+    "name": "labmanager",
+    "installations": {
+        "1301596200000": 15,
+        "1304188200000": 23
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.10347682119205298,
+        "1304188200000": 0.1575774184708139
+    },
+    "installationsPerVersion": {
+        "0.2.3": 23
+    },
+    "installationsPercentagePerVersion": {
+        "0.2.3": 0.1575774184708139
+    }
+}

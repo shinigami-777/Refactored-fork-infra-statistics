@@ -1,0 +1,19 @@
+{
+    "name": "javanet-uploader",
+    "installations": {
+        "1301596200000": 31,
+        "1304188200000": 29
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.21385209713024284,
+        "1304188200000": 0.19868457111537408
+    },
+    "installationsPerVersion": {
+        "1.6": 1,
+        "1.7": 28
+    },
+    "installationsPercentagePerVersion": {
+        "1.6": 0.006851192107426692,
+        "1.7": 0.1918333790079474
+    }
+}

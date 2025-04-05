@@ -1,0 +1,172 @@
+<html>
+  <head>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js' type='text/javascript'></script>
+    <script src='http://twitter.github.com/bootstrap/1.4.0/bootstrap-modal.js' type='text/javascript'></script>
+    <script src='http://twitter.github.com/bootstrap/1.4.0/bootstrap-twipsy.js' type='text/javascript'></script>
+    <script src='http://twitter.github.com/bootstrap/1.4.0/bootstrap-popover.js' type='text/javascript'></script>
+    <link rel='stylesheet' href='http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css' />
+    <style>
+                    #byMonth td {
+                        padding: 0.5em;
+                        text-align: center;
+                    }
+                </style>
+  </head>
+  <body>
+    <div class='container'>
+      <div id='special'>
+        <div>
+          <h1>Some statistics on the usage of Jenkins</h1>
+        </div>
+        <table>
+          <tr>
+            <td>
+              <a href='total-jenkins.svg'>total-jenkins.svg</a>
+              <a href='total-jenkins.csv'>CSV</a>
+              <object data='total-jenkins.svg' width='200' type='image/svg+xml' />
+            </td>
+            <td>
+              <a href='total-plugins.svg'>total-plugins.svg</a>
+              <a href='total-plugins.csv'>CSV</a>
+              <object data='total-plugins.svg' width='200' type='image/svg+xml' />
+            </td>
+            <td>
+              <a href='total-nodes.svg'>total-nodes.svg</a>
+              <a href='total-nodes.csv'>CSV</a>
+              <object data='total-nodes.svg' width='200' type='image/svg+xml' />
+            </td>
+            <td>
+              <a href='total-jobs.svg'>total-jobs.svg</a>
+              <a href='total-jobs.csv'>CSV</a>
+              <object data='total-jobs.svg' width='200' type='image/svg+xml' />
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div id='byMonth'>
+        <div>
+          <h1>Statistics by months</h1>
+        </div>
+        <table>
+          <tr>
+            <td>Month</td>
+            <td>jenkins</td>
+            <td>jobs</td>
+            <td>nodes</td>
+            <td>nodesPie</td>
+            <td>plugins</td>
+            <td>top-plugins1000</td>
+            <td>top-plugins2500</td>
+            <td>top-plugins500</td>
+            <td>total-executors</td>
+          </tr>
+          <tr>
+            <td>2011-05 (May)</td>
+            <td>
+              <a class='info' href='201105-jenkins.svg' alt='201105-jenkins.svg' data-content='&lt;object data=&apos;201105-jenkins.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201105-jenkins.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201105-jenkins.csv' alt='201105-jenkins.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201105-jobs.svg' alt='201105-jobs.svg' data-content='&lt;object data=&apos;201105-jobs.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201105-jobs.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201105-jobs.csv' alt='201105-jobs.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201105-nodes.svg' alt='201105-nodes.svg' data-content='&lt;object data=&apos;201105-nodes.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201105-nodes.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201105-nodes.csv' alt='201105-nodes.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201105-nodesPie.svg' alt='201105-nodesPie.svg' data-content='&lt;object data=&apos;201105-nodesPie.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201105-nodesPie.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201105-nodesPie.csv' alt='201105-nodesPie.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201105-plugins.svg' alt='201105-plugins.svg' data-content='&lt;object data=&apos;201105-plugins.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201105-plugins.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201105-plugins.csv' alt='201105-plugins.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201105-top-plugins1000.svg' alt='201105-top-plugins1000.svg' data-content='&lt;object data=&apos;201105-top-plugins1000.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201105-top-plugins1000.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201105-top-plugins1000.csv' alt='201105-top-plugins1000.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201105-top-plugins2500.svg' alt='201105-top-plugins2500.svg' data-content='&lt;object data=&apos;201105-top-plugins2500.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201105-top-plugins2500.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201105-top-plugins2500.csv' alt='201105-top-plugins2500.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201105-top-plugins500.svg' alt='201105-top-plugins500.svg' data-content='&lt;object data=&apos;201105-top-plugins500.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201105-top-plugins500.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201105-top-plugins500.csv' alt='201105-top-plugins500.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201105-total-executors.svg' alt='201105-total-executors.svg' data-content='&lt;object data=&apos;201105-total-executors.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201105-total-executors.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201105-total-executors.csv' alt='201105-total-executors.csv'>CSV</a>
+            </td>
+          </tr>
+          <tr>
+            <td>2011-04 (April)</td>
+            <td>
+              <a class='info' href='201104-jenkins.svg' alt='201104-jenkins.svg' data-content='&lt;object data=&apos;201104-jenkins.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201104-jenkins.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201104-jenkins.csv' alt='201104-jenkins.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201104-jobs.svg' alt='201104-jobs.svg' data-content='&lt;object data=&apos;201104-jobs.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201104-jobs.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201104-jobs.csv' alt='201104-jobs.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201104-nodes.svg' alt='201104-nodes.svg' data-content='&lt;object data=&apos;201104-nodes.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201104-nodes.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201104-nodes.csv' alt='201104-nodes.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201104-nodesPie.svg' alt='201104-nodesPie.svg' data-content='&lt;object data=&apos;201104-nodesPie.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201104-nodesPie.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201104-nodesPie.csv' alt='201104-nodesPie.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201104-plugins.svg' alt='201104-plugins.svg' data-content='&lt;object data=&apos;201104-plugins.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201104-plugins.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201104-plugins.csv' alt='201104-plugins.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201104-top-plugins1000.svg' alt='201104-top-plugins1000.svg' data-content='&lt;object data=&apos;201104-top-plugins1000.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201104-top-plugins1000.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201104-top-plugins1000.csv' alt='201104-top-plugins1000.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201104-top-plugins2500.svg' alt='201104-top-plugins2500.svg' data-content='&lt;object data=&apos;201104-top-plugins2500.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201104-top-plugins2500.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201104-top-plugins2500.csv' alt='201104-top-plugins2500.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201104-top-plugins500.svg' alt='201104-top-plugins500.svg' data-content='&lt;object data=&apos;201104-top-plugins500.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201104-top-plugins500.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201104-top-plugins500.csv' alt='201104-top-plugins500.csv'>CSV</a>
+            </td>
+            <td>
+              <a class='info' href='201104-total-executors.svg' alt='201104-total-executors.svg' data-content='&lt;object data=&apos;201104-total-executors.svg&apos; width=&apos;200&apos; type=&apos;image/svg+xml&apos;/&gt;' rel='popover' data-original-title='201104-total-executors.svg'>SVG</a>
+              <span>/</span>
+              <a class='info' href='201104-total-executors.csv' alt='201104-total-executors.csv'>CSV</a>
+            </td>
+          </tr>
+        </table>
+        <script>$(function () {
+ $("a[rel=popover]")
+ .popover({
+   offset: 10,
+   html: true,
+   placement: 'right'
+ })
+})
+</script>
+      </div>
+    </div>
+  </body>
+</html>

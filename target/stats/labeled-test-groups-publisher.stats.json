@@ -1,0 +1,17 @@
+{
+    "name": "labeled-test-groups-publisher",
+    "installations": {
+        "1301596200000": 45,
+        "1304188200000": 47
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.31043046357615894,
+        "1304188200000": 0.3220060290490545
+    },
+    "installationsPerVersion": {
+        "1.2.6": 47
+    },
+    "installationsPercentagePerVersion": {
+        "1.2.6": 0.3220060290490545
+    }
+}

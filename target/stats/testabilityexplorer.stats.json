@@ -1,0 +1,19 @@
+{
+    "name": "testabilityexplorer",
+    "installations": {
+        "1301596200000": 150,
+        "1304188200000": 143
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.0347682119205297,
+        "1304188200000": 0.979720471362017
+    },
+    "installationsPerVersion": {
+        "0.2": 4,
+        "0.3": 139
+    },
+    "installationsPercentagePerVersion": {
+        "0.2": 0.02740476842970677,
+        "0.3": 0.9523157029323103
+    }
+}

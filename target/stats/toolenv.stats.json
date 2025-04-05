@@ -1,0 +1,17 @@
+{
+    "name": "toolenv",
+    "installations": {
+        "1301596200000": 178,
+        "1304188200000": 184
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.2279249448123621,
+        "1304188200000": 1.2606193477665113
+    },
+    "installationsPerVersion": {
+        "1.0": 184
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 1.2606193477665113
+    }
+}

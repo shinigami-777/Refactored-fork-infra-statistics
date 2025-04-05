@@ -1,0 +1,17 @@
+{
+    "name": "m2-repo-reaper",
+    "installations": {
+        "1301596200000": 128,
+        "1304188200000": 155
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.8830022075055187,
+        "1304188200000": 1.0619347766511373
+    },
+    "installationsPerVersion": {
+        "1.0": 155
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 1.0619347766511373
+    }
+}

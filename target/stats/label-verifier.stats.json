@@ -1,0 +1,17 @@
+{
+    "name": "label-verifier",
+    "installations": {
+        "1301596200000": 39,
+        "1304188200000": 44
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.26903973509933776,
+        "1304188200000": 0.30145245272677446
+    },
+    "installationsPerVersion": {
+        "1.0": 44
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.30145245272677446
+    }
+}

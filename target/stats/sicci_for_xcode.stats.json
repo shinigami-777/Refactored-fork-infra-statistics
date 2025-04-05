@@ -1,0 +1,19 @@
+{
+    "name": "sicci_for_xcode",
+    "installations": {
+        "1301596200000": 15,
+        "1304188200000": 30
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.10347682119205298,
+        "1304188200000": 0.20553576322280076
+    },
+    "installationsPerVersion": {
+        "0.0.8": 28,
+        "0.0.9-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "0.0.8": 0.1918333790079474,
+        "0.0.9-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

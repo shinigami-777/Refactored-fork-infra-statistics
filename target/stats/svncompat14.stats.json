@@ -1,0 +1,19 @@
+{
+    "name": "svncompat14",
+    "installations": {
+        "1301596200000": 65,
+        "1304188200000": 72
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.44839955849889623,
+        "1304188200000": 0.49328583173472185
+    },
+    "installationsPerVersion": {
+        "1.0": 71,
+        "1.1-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.48643463962729516,
+        "1.1-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

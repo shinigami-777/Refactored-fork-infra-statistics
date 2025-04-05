@@ -1,0 +1,19 @@
+{
+    "name": "hudsontrayapp",
+    "installations": {
+        "1301596200000": 586,
+        "1304188200000": 593
+    },
+    "installationsPercentage": {
+        "1301596200000": 4.042494481236203,
+        "1304188200000": 4.062756919704029
+    },
+    "installationsPerVersion": {
+        "0.7.2": 8,
+        "0.7.3": 585
+    },
+    "installationsPercentagePerVersion": {
+        "0.7.2": 0.05480953685941354,
+        "0.7.3": 4.007947382844615
+    }
+}

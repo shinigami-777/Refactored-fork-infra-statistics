@@ -1,0 +1,17 @@
+{
+    "name": "kundo",
+    "installations": {
+        "1301596200000": 5,
+        "1304188200000": 5
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.03449227373068433,
+        "1304188200000": 0.034255960537133465
+    },
+    "installationsPerVersion": {
+        "0.2": 5
+    },
+    "installationsPercentagePerVersion": {
+        "0.2": 0.034255960537133465
+    }
+}

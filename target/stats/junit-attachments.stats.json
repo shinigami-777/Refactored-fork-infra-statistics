@@ -1,0 +1,19 @@
+{
+    "name": "junit-attachments",
+    "installations": {
+        "1301596200000": 270,
+        "1304188200000": 285
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.8625827814569536,
+        "1304188200000": 1.9525897506166072
+    },
+    "installationsPerVersion": {
+        "1.0": 84,
+        "1.1": 201
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.5755001370238422,
+        "1.1": 1.377089613592765
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "campfire",
+    "installations": {
+        "1301596200000": 90,
+        "1304188200000": 92
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.6208609271523179,
+        "1304188200000": 0.6303096738832557
+    },
+    "installationsPerVersion": {
+        "2.1": 83,
+        "2.2-SNAPSHOT-JGP": 3,
+        "2.21b1-SNAPSHOT-JGP-bgreenlee": 1,
+        "2.3.1-JGP": 3,
+        "2.4.0": 2
+    },
+    "installationsPercentagePerVersion": {
+        "2.1": 0.5686489449164155,
+        "2.2-SNAPSHOT-JGP": 0.020553576322280078,
+        "2.21b1-SNAPSHOT-JGP-bgreenlee": 0.006851192107426692,
+        "2.3.1-JGP": 0.020553576322280078,
+        "2.4.0": 0.013702384214853385
+    }
+}

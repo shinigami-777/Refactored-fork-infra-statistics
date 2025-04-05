@@ -1,0 +1,29 @@
+<svg xmlns='http://www.w3.org/2000/svg' version='1.1' preserveAspectRatio='xMidYMid meet' viewBox='0 0 245 490.25'>
+  <rect fill='blue' height='25.29' stroke='black' width='12' x='15' y='164.96' />
+  <text x='15' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 15,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>pmd (2529)</text>
+  <rect fill='blue' height='28.29' stroke='black' width='12' x='30' y='161.96' />
+  <text x='30' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 30,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>findbugs (2829)</text>
+  <rect fill='blue' height='28.55' stroke='black' width='12' x='45' y='161.70' />
+  <text x='45' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 45,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>checkstyle (2855)</text>
+  <rect fill='blue' height='29.06' stroke='black' width='12' x='60' y='161.19' />
+  <text x='60' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 60,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>cobertura (2906)</text>
+  <rect fill='blue' height='29.68' stroke='black' width='12' x='75' y='160.57' />
+  <text x='75' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 75,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>git (2968)</text>
+  <rect fill='blue' height='34.02' stroke='black' width='12' x='90' y='156.23' />
+  <text x='90' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 90,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>scis-ad (3402)</text>
+  <rect fill='blue' height='36.24' stroke='black' width='12' x='105' y='154.01' />
+  <text x='105' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 105,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>greenballs (3624)</text>
+  <rect fill='blue' height='38.41' stroke='black' width='12' x='120' y='151.84' />
+  <text x='120' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 120,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>email-ext (3841)</text>
+  <rect fill='blue' height='54.87' stroke='black' width='12' x='135' y='135.38' />
+  <text x='135' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 135,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>analysis-core (5487)</text>
+  <rect fill='blue' height='131.39' stroke='black' width='12' x='150' y='58.86' />
+  <text x='150' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 150,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>cvs (13139)</text>
+  <rect fill='blue' height='136.93' stroke='black' width='12' x='165' y='53.32' />
+  <text x='165' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 165,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>maven-plugin (13693)</text>
+  <rect fill='blue' height='139.83' stroke='black' width='12' x='180' y='50.42' />
+  <text x='180' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 180,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>subversion (13983)</text>
+  <rect fill='blue' height='140.25' stroke='black' width='12' x='195' y='50.00' />
+  <text x='195' y='195.25' font-family='Tahoma' font-size='12' transform='rotate(90 195,195.25)' text-rendering='optimizeSpeed' fill='#000000;'>ssh-slaves (14025)</text>
+  <text x='10' y='40' font-family='Tahoma' font-size='20' text-rendering='optimizeSpeed' fill='#000000;'>Top Plugin installations (installations &gt; 2500)</text>
+</svg>

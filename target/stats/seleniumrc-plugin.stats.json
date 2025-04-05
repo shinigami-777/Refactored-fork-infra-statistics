@@ -1,0 +1,17 @@
+{
+    "name": "seleniumrc-plugin",
+    "installations": {
+        "1301596200000": 62,
+        "1304188200000": 85
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.42770419426048567,
+        "1304188200000": 0.5823513291312689
+    },
+    "installationsPerVersion": {
+        "1.0": 85
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.5823513291312689
+    }
+}

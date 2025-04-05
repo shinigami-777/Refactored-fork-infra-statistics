@@ -1,0 +1,21 @@
+{
+    "name": "ftppublisher",
+    "installations": {
+        "1301596200000": 652,
+        "1304188200000": 640
+    },
+    "installationsPercentage": {
+        "1301596200000": 4.497792494481236,
+        "1304188200000": 4.3847629487530835
+    },
+    "installationsPerVersion": {
+        "0.9": 66,
+        "1.0": 572,
+        "1.1-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "0.9": 0.4521786790901617,
+        "1.0": 3.918881885448068,
+        "1.1-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

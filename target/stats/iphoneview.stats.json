@@ -1,0 +1,19 @@
+{
+    "name": "iphoneview",
+    "installations": {
+        "1301596200000": 601,
+        "1304188200000": 611
+    },
+    "installationsPercentage": {
+        "1301596200000": 4.145971302428256,
+        "1304188200000": 4.186078377637709
+    },
+    "installationsPerVersion": {
+        "0.1": 1,
+        "0.2": 610
+    },
+    "installationsPercentagePerVersion": {
+        "0.1": 0.006851192107426692,
+        "0.2": 4.179227185530282
+    }
+}

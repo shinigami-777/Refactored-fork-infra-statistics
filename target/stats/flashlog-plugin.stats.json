@@ -1,0 +1,17 @@
+{
+    "name": "flashlog-plugin",
+    "installations": {
+        "1301596200000": 17,
+        "1304188200000": 22
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.11727373068432671,
+        "1304188200000": 0.15072622636338723
+    },
+    "installationsPerVersion": {
+        "1.0": 22
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.15072622636338723
+    }
+}

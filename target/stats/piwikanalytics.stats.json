@@ -1,0 +1,17 @@
+{
+    "name": "piwikanalytics",
+    "installations": {
+        "1301596200000": 32,
+        "1304188200000": 33
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.22075055187637968,
+        "1304188200000": 0.22608933954508084
+    },
+    "installationsPerVersion": {
+        "1.0": 33
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.22608933954508084
+    }
+}

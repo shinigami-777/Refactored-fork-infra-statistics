@@ -1,0 +1,19 @@
+{
+    "name": "thinBackup",
+    "installations": {
+        "1301596200000": 283,
+        "1304188200000": 356
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.9522626931567328,
+        "1304188200000": 2.4390243902439024
+    },
+    "installationsPerVersion": {
+        "1.1": 46,
+        "1.2": 310
+    },
+    "installationsPercentagePerVersion": {
+        "1.1": 0.3151548369416278,
+        "1.2": 2.1238695533022747
+    }
+}

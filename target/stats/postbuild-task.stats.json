@@ -1,0 +1,25 @@
+{
+    "name": "postbuild-task",
+    "installations": {
+        "1301596200000": 1345,
+        "1304188200000": 1476
+    },
+    "installationsPercentage": {
+        "1301596200000": 9.278421633554084,
+        "1304188200000": 10.112359550561798
+    },
+    "installationsPerVersion": {
+        "1.2-SNAPSHOT (private)": 1,
+        "1.6": 63,
+        "1.7": 365,
+        "1.8": 1045,
+        "1.9-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.2-SNAPSHOT (private)": 0.006851192107426692,
+        "1.6": 0.43162510276788163,
+        "1.7": 2.500685119210743,
+        "1.8": 7.159495752260893,
+        "1.9-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

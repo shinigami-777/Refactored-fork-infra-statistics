@@ -1,0 +1,17 @@
+{
+    "name": "lastfailureversioncolumn",
+    "installations": {
+        "1301596200000": 232,
+        "1304188200000": 251
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.6004415011037527,
+        "1304188200000": 1.7196492189640997
+    },
+    "installationsPerVersion": {
+        "1.0": 251
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 1.7196492189640997
+    }
+}

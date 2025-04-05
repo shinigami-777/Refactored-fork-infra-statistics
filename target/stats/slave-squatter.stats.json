@@ -1,0 +1,17 @@
+{
+    "name": "slave-squatter",
+    "installations": {
+        "1301596200000": 37,
+        "1304188200000": 41
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.255242825607064,
+        "1304188200000": 0.2808988764044944
+    },
+    "installationsPerVersion": {
+        "1.1": 41
+    },
+    "installationsPercentagePerVersion": {
+        "1.1": 0.2808988764044944
+    }
+}

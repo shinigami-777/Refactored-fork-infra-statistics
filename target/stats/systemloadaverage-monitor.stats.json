@@ -1,0 +1,17 @@
+{
+    "name": "systemloadaverage-monitor",
+    "installations": {
+        "1301596200000": 262,
+        "1304188200000": 263
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.8073951434878588,
+        "1304188200000": 1.8018635242532202
+    },
+    "installationsPerVersion": {
+        "1.1": 263
+    },
+    "installationsPercentagePerVersion": {
+        "1.1": 1.8018635242532202
+    }
+}

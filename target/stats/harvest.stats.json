@@ -1,0 +1,27 @@
+{
+    "name": "harvest",
+    "installations": {
+        "1301596200000": 20,
+        "1304188200000": 17
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.13796909492273732,
+        "1304188200000": 0.11647026582625376
+    },
+    "installationsPerVersion": {
+        "0.2.7": 2,
+        "0.2.8-SNAPSHOT (private)": 1,
+        "0.3": 2,
+        "0.4": 7,
+        "0.5-SNAPSHOT (private)": 3,
+        "0.5-SNAPSHOT#cd20": 2
+    },
+    "installationsPercentagePerVersion": {
+        "0.2.7": 0.013702384214853385,
+        "0.2.8-SNAPSHOT (private)": 0.006851192107426692,
+        "0.3": 0.013702384214853385,
+        "0.4": 0.04795834475198685,
+        "0.5-SNAPSHOT (private)": 0.020553576322280078,
+        "0.5-SNAPSHOT#cd20": 0.013702384214853385
+    }
+}

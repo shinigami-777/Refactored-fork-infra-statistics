@@ -1,0 +1,17 @@
+{
+    "name": "dumpinfo-buildwrapper-plugin",
+    "installations": {
+        "1301596200000": 25,
+        "1304188200000": 31
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.17246136865342163,
+        "1304188200000": 0.21238695533022747
+    },
+    "installationsPerVersion": {
+        "1.1": 31
+    },
+    "installationsPercentagePerVersion": {
+        "1.1": 0.21238695533022747
+    }
+}

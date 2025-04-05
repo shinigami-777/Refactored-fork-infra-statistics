@@ -1,0 +1,17 @@
+{
+    "name": "play-autotest-plugin",
+    "installations": {
+        "1301596200000": 22,
+        "1304188200000": 23
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.15176600441501104,
+        "1304188200000": 0.1575774184708139
+    },
+    "installationsPerVersion": {
+        "0.0.4": 23
+    },
+    "installationsPercentagePerVersion": {
+        "0.0.4": 0.1575774184708139
+    }
+}

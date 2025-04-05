@@ -1,0 +1,17 @@
+{
+    "name": "notifo",
+    "installations": {
+        "1301596200000": 44,
+        "1304188200000": 37
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.30353200883002207,
+        "1304188200000": 0.2534941079747876
+    },
+    "installationsPerVersion": {
+        "1.0.1": 37
+    },
+    "installationsPercentagePerVersion": {
+        "1.0.1": 0.2534941079747876
+    }
+}

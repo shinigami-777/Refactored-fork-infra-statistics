@@ -1,0 +1,25 @@
+{
+    "name": "downstream-buildview",
+    "installations": {
+        "1301596200000": 856,
+        "1304188200000": 862
+    },
+    "installationsPercentage": {
+        "1301596200000": 5.9050772626931565,
+        "1304188200000": 5.905727596601809
+    },
+    "installationsPerVersion": {
+        "1.4": 117,
+        "1.5": 425,
+        "1.5-SNAPSHOT (private)": 8,
+        "1.6": 310,
+        "1.7-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.4": 0.801589476568923,
+        "1.5": 2.9117566456563444,
+        "1.5-SNAPSHOT (private)": 0.05480953685941354,
+        "1.6": 2.1238695533022747,
+        "1.7-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

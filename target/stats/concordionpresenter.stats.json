@@ -1,0 +1,17 @@
+{
+    "name": "concordionpresenter",
+    "installations": {
+        "1301596200000": 38,
+        "1304188200000": 36
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.2621412803532009,
+        "1304188200000": 0.24664291586736092
+    },
+    "installationsPerVersion": {
+        "0.6": 36
+    },
+    "installationsPercentagePerVersion": {
+        "0.6": 0.24664291586736092
+    }
+}

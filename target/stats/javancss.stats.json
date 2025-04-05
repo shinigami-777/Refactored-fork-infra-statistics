@@ -1,0 +1,21 @@
+{
+    "name": "javancss",
+    "installations": {
+        "1301596200000": 379,
+        "1304188200000": 351
+    },
+    "installationsPercentage": {
+        "1301596200000": 2.614514348785872,
+        "1304188200000": 2.404768429706769
+    },
+    "installationsPerVersion": {
+        "1.0": 207,
+        "1.0-alpha-1": 142,
+        "1.0-alpha-2-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 1.4181967662373254,
+        "1.0-alpha-1": 0.9728692792545903,
+        "1.0-alpha-2-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

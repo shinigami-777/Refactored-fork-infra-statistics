@@ -1,0 +1,19 @@
+{
+    "name": "tracking-svn",
+    "installations": {
+        "1301596200000": 168,
+        "1304188200000": 199
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.1589403973509933,
+        "1304188200000": 1.3633872293779117
+    },
+    "installationsPerVersion": {
+        "1.0": 56,
+        "1.1": 143
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.3836667580158948,
+        "1.1": 0.979720471362017
+    }
+}

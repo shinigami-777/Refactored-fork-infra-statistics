@@ -1,0 +1,17 @@
+{
+    "name": "bruceschneier",
+    "installations": {
+        "1301596200000": 148,
+        "1304188200000": 153
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.020971302428256,
+        "1304188200000": 1.048232392436284
+    },
+    "installationsPerVersion": {
+        "0.1": 153
+    },
+    "installationsPercentagePerVersion": {
+        "0.1": 1.048232392436284
+    }
+}

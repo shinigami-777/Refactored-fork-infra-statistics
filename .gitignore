@@ -1,5 +1,4 @@
-target
-target/svg/*
+target/stats.db
 
 *.iml
 

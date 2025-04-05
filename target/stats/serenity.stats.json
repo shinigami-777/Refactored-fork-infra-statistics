@@ -1,0 +1,19 @@
+{
+    "name": "serenity",
+    "installations": {
+        "1301596200000": 70,
+        "1304188200000": 70
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.4828918322295806,
+        "1304188200000": 0.4795834475198685
+    },
+    "installationsPerVersion": {
+        "0.3": 2,
+        "0.4": 68
+    },
+    "installationsPercentagePerVersion": {
+        "0.3": 0.013702384214853385,
+        "0.4": 0.46588106330501505
+    }
+}

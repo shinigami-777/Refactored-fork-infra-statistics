@@ -1,0 +1,17 @@
+{
+    "name": "screenshot",
+    "installations": {
+        "1301596200000": 312,
+        "1304188200000": 307
+    },
+    "installationsPercentage": {
+        "1301596200000": 2.152317880794702,
+        "1304188200000": 2.1033159769799945
+    },
+    "installationsPerVersion": {
+        "1.1": 307
+    },
+    "installationsPercentagePerVersion": {
+        "1.1": 2.1033159769799945
+    }
+}

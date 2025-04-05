@@ -1,0 +1,17 @@
+{
+    "name": "security-no-captcha",
+    "installations": {
+        "1301596200000": 48,
+        "1304188200000": 54
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.33112582781456956,
+        "1304188200000": 0.36996437380104136
+    },
+    "installationsPerVersion": {
+        "1.0": 54
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.36996437380104136
+    }
+}

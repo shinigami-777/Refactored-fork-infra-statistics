@@ -1,0 +1,19 @@
+{
+    "name": "virtualbox",
+    "installations": {
+        "1301596200000": 154,
+        "1304188200000": 152
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.0623620309050772,
+        "1304188200000": 1.0413812003288572
+    },
+    "installationsPerVersion": {
+        "0.1": 1,
+        "0.2.1": 151
+    },
+    "installationsPercentagePerVersion": {
+        "0.1": 0.006851192107426692,
+        "0.2.1": 1.0345300082214306
+    }
+}

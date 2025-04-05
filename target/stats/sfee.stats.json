@@ -1,0 +1,19 @@
+{
+    "name": "sfee",
+    "installations": {
+        "1301596200000": 4,
+        "1304188200000": 7
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.02759381898454746,
+        "1304188200000": 0.04795834475198685
+    },
+    "installationsPerVersion": {
+        "1.0.4": 6,
+        "1.0.4-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.0.4": 0.041107152644560156,
+        "1.0.4-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

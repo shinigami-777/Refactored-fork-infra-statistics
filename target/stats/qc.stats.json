@@ -1,0 +1,19 @@
+{
+    "name": "qc",
+    "installations": {
+        "1301596200000": 81,
+        "1304188200000": 87
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.5587748344370861,
+        "1304188200000": 0.5960537133461222
+    },
+    "installationsPerVersion": {
+        "1.0": 85,
+        "1.2-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.5823513291312689,
+        "1.2-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "gerrit-trigger",
+    "installations": {
+        "1301596200000": 109,
+        "1304188200000": 113
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.7519315673289183,
+        "1304188200000": 0.7741847081392162
+    },
+    "installationsPerVersion": {
+        "2.1-SNAPSHOT (private)": 1,
+        "2.1.0": 1,
+        "2.2.0": 45,
+        "2.2.1-SNAPSHOT (private)": 2,
+        "2.3.0": 61,
+        "2.3.1-SNAPSHOT (private)": 3
+    },
+    "installationsPercentagePerVersion": {
+        "2.1-SNAPSHOT (private)": 0.006851192107426692,
+        "2.1.0": 0.006851192107426692,
+        "2.2.0": 0.30830364483420114,
+        "2.2.1-SNAPSHOT (private)": 0.013702384214853385,
+        "2.3.0": 0.4179227185530282,
+        "2.3.1-SNAPSHOT (private)": 0.020553576322280078
+    }
+}

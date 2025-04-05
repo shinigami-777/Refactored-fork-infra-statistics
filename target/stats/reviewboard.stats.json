@@ -1,0 +1,21 @@
+{
+    "name": "reviewboard",
+    "installations": {
+        "1301596200000": 32,
+        "1304188200000": 26
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.22075055187637968,
+        "1304188200000": 0.178130994793094
+    },
+    "installationsPerVersion": {
+        "0.11-SNAPSHOT (private)": 1,
+        "1.0.0": 21,
+        "1.0.1": 4
+    },
+    "installationsPercentagePerVersion": {
+        "0.11-SNAPSHOT (private)": 0.006851192107426692,
+        "1.0.0": 0.14387503425596054,
+        "1.0.1": 0.02740476842970677
+    }
+}

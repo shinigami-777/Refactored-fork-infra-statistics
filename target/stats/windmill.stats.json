@@ -1,0 +1,19 @@
+{
+    "name": "windmill",
+    "installations": {
+        "1301596200000": 26,
+        "1304188200000": 28
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.1793598233995585,
+        "1304188200000": 0.1918333790079474
+    },
+    "installationsPerVersion": {
+        "1.4": 1,
+        "1.5": 27
+    },
+    "installationsPercentagePerVersion": {
+        "1.4": 0.006851192107426692,
+        "1.5": 0.18498218690052068
+    }
+}

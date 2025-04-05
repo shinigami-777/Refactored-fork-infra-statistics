@@ -1,0 +1,21 @@
+{
+    "name": "jdepend",
+    "installations": {
+        "1301596200000": 791,
+        "1304188200000": 769
+    },
+    "installationsPercentage": {
+        "1301596200000": 5.45667770419426,
+        "1304188200000": 5.268566730611126
+    },
+    "installationsPerVersion": {
+        "1.2.2": 264,
+        "1.2.3": 504,
+        "1.2.4-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.2.2": 1.8087147163606467,
+        "1.2.3": 3.453000822143053,
+        "1.2.4-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

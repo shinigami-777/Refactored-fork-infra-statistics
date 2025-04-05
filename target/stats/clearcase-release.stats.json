@@ -1,0 +1,19 @@
+{
+    "name": "clearcase-release",
+    "installations": {
+        "1301596200000": 88,
+        "1304188200000": 89
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.6070640176600441,
+        "1304188200000": 0.6097560975609756
+    },
+    "installationsPerVersion": {
+        "0.1": 48,
+        "0.3": 41
+    },
+    "installationsPercentagePerVersion": {
+        "0.1": 0.32885722115648125,
+        "0.3": 0.2808988764044944
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "easyant",
+    "installations": {
+        "1301596200000": 66,
+        "1304188200000": 73
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.4552980132450331,
+        "1304188200000": 0.5001370238421485
+    },
+    "installationsPerVersion": {
+        "1.0": 1,
+        "1.1": 72
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.006851192107426692,
+        "1.1": 0.49328583173472185
+    }
+}

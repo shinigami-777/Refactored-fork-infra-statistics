@@ -1,0 +1,21 @@
+{
+    "name": "role-strategy",
+    "installations": {
+        "1301596200000": 299,
+        "1304188200000": 306
+    },
+    "installationsPercentage": {
+        "1301596200000": 2.0626379690949226,
+        "1304188200000": 2.096464784872568
+    },
+    "installationsPerVersion": {
+        "1.0": 303,
+        "1.0.1-SNAPSHOT (private)": 1,
+        "1.1-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 2.0759112085502878,
+        "1.0.1-SNAPSHOT (private)": 0.006851192107426692,
+        "1.1-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "WebSVN2",
+    "installations": {
+        "1301596200000": 198,
+        "1304188200000": 218
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.3658940397350994,
+        "1304188200000": 1.4935598794190188
+    },
+    "installationsPerVersion": {
+        "0.9": 218
+    },
+    "installationsPercentagePerVersion": {
+        "0.9": 1.4935598794190188
+    }
+}

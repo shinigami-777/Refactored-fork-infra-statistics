@@ -1,0 +1,19 @@
+{
+    "name": "nodenamecolumn",
+    "installations": {
+        "1301596200000": 181,
+        "1304188200000": 186
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.2486203090507726,
+        "1304188200000": 1.2743217319813647
+    },
+    "installationsPerVersion": {
+        "1.0": 4,
+        "1.1": 182
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.02740476842970677,
+        "1.1": 1.246916963551658
+    }
+}

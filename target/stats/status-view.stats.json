@@ -1,0 +1,19 @@
+{
+    "name": "status-view",
+    "installations": {
+        "1301596200000": 262,
+        "1304188200000": 287
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.8073951434878588,
+        "1304188200000": 1.9662921348314606
+    },
+    "installationsPerVersion": {
+        "1.0": 285,
+        "1.1-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 1.9525897506166072,
+        "1.1-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

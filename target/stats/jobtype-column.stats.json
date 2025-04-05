@@ -1,0 +1,17 @@
+{
+    "name": "jobtype-column",
+    "installations": {
+        "1301596200000": 163,
+        "1304188200000": 173
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.124448123620309,
+        "1304188200000": 1.1852562345848177
+    },
+    "installationsPerVersion": {
+        "1.0": 173
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 1.1852562345848177
+    }
+}

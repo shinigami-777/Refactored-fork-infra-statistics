@@ -1,0 +1,21 @@
+{
+    "name": "sounds",
+    "installations": {
+        "1301596200000": 147,
+        "1304188200000": 171
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.0140728476821192,
+        "1304188200000": 1.1715538503699643
+    },
+    "installationsPerVersion": {
+        "0.2": 77,
+        "0.3": 93,
+        "0.3-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "0.2": 0.5275417922718553,
+        "0.3": 0.6371608659906823,
+        "0.3-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "cmvc",
+    "installations": {
+        "1301596200000": 5,
+        "1304188200000": 4
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.03449227373068433,
+        "1304188200000": 0.02740476842970677
+    },
+    "installationsPerVersion": {
+        "0.3": 3,
+        "0.4-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "0.3": 0.020553576322280078,
+        "0.4-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

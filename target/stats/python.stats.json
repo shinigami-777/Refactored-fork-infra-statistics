@@ -1,0 +1,19 @@
+{
+    "name": "python",
+    "installations": {
+        "1301596200000": 671,
+        "1304188200000": 697
+    },
+    "installationsPercentage": {
+        "1301596200000": 4.628863134657837,
+        "1304188200000": 4.775280898876405
+    },
+    "installationsPerVersion": {
+        "1.0": 5,
+        "1.1": 692
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.034255960537133465,
+        "1.1": 4.741024938339271
+    }
+}

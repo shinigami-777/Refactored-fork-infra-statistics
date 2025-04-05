@@ -1,0 +1,19 @@
+{
+    "name": "depgraph-view",
+    "installations": {
+        "1301596200000": 349,
+        "1304188200000": 401
+    },
+    "installationsPercentage": {
+        "1301596200000": 2.407560706401766,
+        "1304188200000": 2.7473280350781035
+    },
+    "installationsPerVersion": {
+        "0.1": 399,
+        "0.2-SNAPSHOT (private)": 2
+    },
+    "installationsPercentagePerVersion": {
+        "0.1": 2.7336256508632504,
+        "0.2-SNAPSHOT (private)": 0.013702384214853385
+    }
+}

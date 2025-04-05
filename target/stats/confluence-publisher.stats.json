@@ -1,0 +1,21 @@
+{
+    "name": "confluence-publisher",
+    "installations": {
+        "1301596200000": 43,
+        "1304188200000": 64
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.2966335540838852,
+        "1304188200000": 0.4384762948753083
+    },
+    "installationsPerVersion": {
+        "1.0.0": 15,
+        "1.0.1": 48,
+        "1.1-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.0.0": 0.10276788161140038,
+        "1.0.1": 0.32885722115648125,
+        "1.1-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

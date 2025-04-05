@@ -1,0 +1,17 @@
+{
+    "name": "deploy-websphere",
+    "installations": {
+        "1301596200000": 113,
+        "1304188200000": 124
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.7795253863134658,
+        "1304188200000": 0.8495478213209099
+    },
+    "installationsPerVersion": {
+        "1.0": 124
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.8495478213209099
+    }
+}

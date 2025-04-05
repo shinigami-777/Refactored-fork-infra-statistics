@@ -1,0 +1,21 @@
+{
+    "name": "URLSCM",
+    "installations": {
+        "1301596200000": 262,
+        "1304188200000": 257
+    },
+    "installationsPercentage": {
+        "1301596200000": 1.8073951434878588,
+        "1304188200000": 1.7607563716086598
+    },
+    "installationsPerVersion": {
+        "1.4": 11,
+        "1.5": 245,
+        "1.6-SNAPSHOT (private)": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.4": 0.07536311318169361,
+        "1.5": 1.6785420663195396,
+        "1.6-SNAPSHOT (private)": 0.006851192107426692
+    }
+}

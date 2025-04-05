@@ -1,0 +1,17 @@
+{
+    "name": "multiline-tabbar-plugin",
+    "installations": {
+        "1301596200000": 38,
+        "1304188200000": 41
+    },
+    "installationsPercentage": {
+        "1301596200000": 0.2621412803532009,
+        "1304188200000": 0.2808988764044944
+    },
+    "installationsPerVersion": {
+        "1.1": 41
+    },
+    "installationsPercentagePerVersion": {
+        "1.1": 0.2808988764044944
+    }
+}

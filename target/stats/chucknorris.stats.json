@@ -1,0 +1,25 @@
+{
+    "name": "chucknorris",
+    "installations": {
+        "1301596200000": 2072,
+        "1304188200000": 2095
+    },
+    "installationsPercentage": {
+        "1301596200000": 14.293598233995585,
+        "1304188200000": 14.35324746505892
+    },
+    "installationsPerVersion": {
+        "0.2": 15,
+        "0.3": 2,
+        "0.3-SNAPSHOT (private)": 2,
+        "0.4": 2073,
+        "0.5-SNAPSHOT (private)": 3
+    },
+    "installationsPercentagePerVersion": {
+        "0.2": 0.10276788161140038,
+        "0.3": 0.013702384214853385,
+        "0.3-SNAPSHOT (private)": 0.013702384214853385,
+        "0.4": 14.202521238695534,
+        "0.5-SNAPSHOT (private)": 0.020553576322280078
+    }
+}
